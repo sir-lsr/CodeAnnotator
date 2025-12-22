@@ -263,6 +263,10 @@ A: 备份 `backend/database.db` 文件即可。上传的文件位于 `backend/up
 - 添加质量评估功能
 - 改进用户界面
 
+## 作者
+
+LSR-SIR
+
 ## 联系方式
 
 如有问题或建议，请提交 Issue 或 Pull Request。
