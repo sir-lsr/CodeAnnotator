@@ -57,6 +57,10 @@ logs/
 .env.local
 .env.*.local
 
+# 用户设置（包含 API 密钥）
+user_settings.json
+backend/user_settings.json
+
 # 临时文件
 *.tmp
 *.temp
