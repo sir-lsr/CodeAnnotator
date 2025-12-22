@@ -1,0 +1,12 @@
+{
+  "theme": "light",
+  "language": "zh",
+  "autoSave": true,
+  "fontSize": 14,
+  "editorTheme": "vs-dark",
+  "llmProvider": "openai",
+  "llmModel": "deepseek-coder",
+  "openaiApiKey": "sk-76486725f3cd47828fa61c86e12d534d",
+  "openaiBaseUrl": "https://api.deepseek.com",
+  "anthropicApiKey": ""
+}

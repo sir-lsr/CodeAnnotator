@@ -1,0 +1,56 @@
+.quality-assessment-container {
+  padding: 24px;
+}
+
+.quality-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.quality-header h2 {
+  margin: 0;
+}
+
+.summary-card {
+  margin-bottom: 24px;
+}
+
+.quality-distribution-card {
+  background: #fafafa;
+  border: 1px solid #f0f0f0;
+}
+
+.project-quality-card {
+  margin-bottom: 24px;
+}
+
+.metric-card {
+  background: #fafafa;
+  border: 1px solid #f0f0f0;
+  text-align: center;
+}
+
+.annotation-stat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .quality-assessment-container {
+    padding: 16px;
+  }
+  
+  .quality-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .quality-header h2 {
+    margin-bottom: 12px;
+  }
+}
