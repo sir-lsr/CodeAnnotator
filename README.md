@@ -66,7 +66,7 @@ start-all.bat
 #### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/your-username/CodeAnnotator.git
+git clone https://github.com/sir-lsr/CodeAnnotator.git
 cd CodeAnnotator
 ```
 
