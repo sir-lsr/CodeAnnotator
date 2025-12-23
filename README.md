@@ -10,6 +10,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![React 18](https://img.shields.io/badge/react-18-blue.svg)](https://reactjs.org/)
 
+[中文](README.md) | [English](README_EN.md)
+
 </div>
 
 ## 项目简介
