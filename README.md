@@ -1,6 +1,16 @@
 # CodeAnnotator
 
-智能代码标注系统 - 使用 AI 自动为代码添加专业注释和标注
+<div align="center">
+
+![CodeAnnotator Banner](./docs/images/banner.png)
+
+**智能代码标注系统 - 使用 AI 自动为代码添加专业注释和标注**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![React 18](https://img.shields.io/badge/react-18-blue.svg)](https://reactjs.org/)
+
+</div>
 
 ## 项目简介
 

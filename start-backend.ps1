@@ -37,7 +37,7 @@ Write-Host "启动后端服务器..." -ForegroundColor Green
 Write-Host "API地址: http://localhost:8000" -ForegroundColor Green
 Write-Host "API文档: http://localhost:8000/docs" -ForegroundColor Green
 Write-Host ""
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+.\venv\Scripts\python.exe -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 Read-Host "按回车键退出"
 
