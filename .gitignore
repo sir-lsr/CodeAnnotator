@@ -57,7 +57,7 @@ logs/
 .env.local
 .env.*.local
 
-# 用户设置（包含 API 密钥）
+# 用户设置（包含 API 密钥等）
 user_settings.json
 backend/user_settings.json
 
